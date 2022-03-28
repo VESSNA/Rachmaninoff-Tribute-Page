@@ -1,2 +1,2 @@
 # Rachmaninoff-Tribute-Page
-My first project as a web developer
+A web development project
